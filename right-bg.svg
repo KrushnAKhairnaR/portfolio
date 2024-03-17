@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="815px" height="739px" viewBox="0 0 815 739" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Merchant-check-bg@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="80.604079%" y1="-2.63722238%" x2="57.5717141%" y2="103.586823%" id="linearGradient-1">
+            <stop stop-color="#0EBCAE" offset="0%"></stop>
+            <stop stop-color="#1EA5AD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Merchant-check-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M711.992625,95.8823708 C617.539432,24.2697134 536.197238,156.150897 437.345146,205.630551 C338.493054,255.110206 270.341981,230.002145 187.478429,250.127736 C104.614876,270.253326 38.884193,300.28079 67.9405793,418.550401 C96.9969657,536.820012 207.757053,624.928748 342.157945,657.658251 C476.558838,690.387754 607.471935,588.712856 662.747236,512.417932 C718.022537,436.123008 806.445818,167.495028 711.992625,95.8823708 Z" fill="url(#linearGradient-1)" transform="translate(407.259311, 369.496952) rotate(-14.000000) translate(-407.259311, -369.496952) "></path>
+    </g>
+</svg>
