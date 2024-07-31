@@ -110,29 +110,32 @@
         width: 100%;
         top:200px;
     }
+    #im {
+        font-size: 25px;
+    }
     .details h2 {
         font-weight: bold;
-        font-size: 35px;
+        font-size: 25px;
         color: blue;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
     .details span {
         color: rgb(13, 68, 94);
-        font-size: 30px;
+        font-size: 25px;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .details a {
         background: rgb(20, 164, 162);
-        text-decoration: ;
+        text-decoration:none ;
         font-weight: 100;
         color: #ffffff;
         display: inline-block;
         margin: 30px 0;
         border-radius: 5px;
         font-size: 10px;
-        padding: 10px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-        height:20px;
+        padding: 15px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        /* height:20px; */
         letter-spacing: 2px;
         
     }
@@ -153,10 +156,21 @@
         color: rgb(13, 68, 94);
         position: relative;
         top:0px;
+        margin-top: -40px;
     }
     
     .contact h2 {
         padding-bottom:10px;
+        width: 100%;
+        border-top: 1px solid rgb(55, 146, 152);
+        border-bottom: 1px solid rgb(55, 146, 152);
+        display: flex;
+        justify-content: center;
+        align-items:center ;
+        text-align: center;
+        padding-top: 10px;
+        margin-bottom: 10px;
+
     }
     
     .contact p {
@@ -171,7 +185,7 @@
     
     footer {
         font-size: 12px;
-        padding-left: 4cm;
+        padding-left: 3cm;
         padding-top: 1.5cm;
         color: grey;
     }
