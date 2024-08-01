@@ -16,10 +16,7 @@
         
         
     }
-   .details p {
-    padding-top: 2%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+
 
     .navbar {
         position: absolute;
@@ -128,6 +125,10 @@
         font-size: 25px;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
+      .details p {
+    padding-top: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
     .details a {
         background: rgb(20, 164, 162);
         text-decoration:none ;
